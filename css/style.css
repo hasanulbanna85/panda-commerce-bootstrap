@@ -1,0 +1,27 @@
+.btn-color{
+    background-color: #ff2279;
+}
+.btn-color:hover{
+    color: #ff2279 !important;
+    border: 1px solid gray;
+}
+.carousel-cs{
+    background-color: #FEEAE9;
+}
+.watch-bg-color{
+    background-color: orange;
+}
+.subscription{
+    background-color: #FEEAE9;
+    height: 300px;
+}
+
+.bag-bg-color{
+    background-color: orchid;
+}
+.shoes-bg-color{
+    background-color: blue;
+}
+.subscription p{
+    color: gray;
+}
